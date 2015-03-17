@@ -5,6 +5,6 @@ public class Hello {
 		Message message = new Message();
 		message.setUser("Demo");
 		System.out.println(message.getMsg());
-	//	System.out.println(message.getMsg());
+		System.out.println(message.getMsg());
 	}
 }
